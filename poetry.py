@@ -7,7 +7,7 @@ adj = ["male", "practical", "lonely", "alive", "dead", "unnatural", "strange", "
 prepo = ["among", "above", "below", "near", "concerning", "during", "over", "unlike"]
 adverb = ["occasionally", "upward", "virtually", "abnormally", "enormously", "thoughtfully"]
 
-#Creating make_poem function
+#creating make_poem function
 def make_poem():
     '''This function will be used to generate a random poem from the words provided above'''
 #uses the choice method from the random module to choose nouns provided from the variable above.
